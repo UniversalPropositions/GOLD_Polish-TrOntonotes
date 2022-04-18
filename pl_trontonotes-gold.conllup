@@ -1,4 +1,4 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL UP:PRED UP:ARGHEADS
+# global.columns = STANZA:ID STANZA:FORM STANZA:LEMMA STANZA:UPOS STANZA:XPOS STANZA:FEATS STANZA:HEAD STANZA:DEPREL GOLD:PRED GOLD:ARGHEADS
 # sentence-text = Dochody ogromnej większości z tych 20 obywateli klasy wyższej w Chinach są w zasadzie dochodami niezgłoszonymi ; część ich dochodów , która pochodzi z w pełni zadeklarowanych zarobków , stanowi znikomą część ich bogactwa .
 1	Dochody	dochód	NOUN	_	_	15	nsubj	_	_
 2	ogromnej	ogromny	ADJ	_	_	3	amod	_	_
