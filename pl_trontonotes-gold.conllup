@@ -38,7 +38,7 @@
 
 # sentence-text = Urzędnicy wyjeżdżają na wieś z wielką świtą , a ludzie idą do petycji sami .
 1	Urzędnicy	urzędnik	NOUN	_	_	2	nsubj	_	_
-2	wyjeżdżają	wyjeżdżać	VERB	_	_	0	ROOT	go.02	A0:1|A4:4|AM-NMR:7
+2	wyjeżdżają	wyjeżdżać	VERB	_	_	0	ROOT	go.02	A0:1|A4:4|AM-MNR:7
 3	na	na	ADP	_	_	4	case	_	_
 4	wieś	wieś	NOUN	_	_	2	obl:arg	_	_
 5	z	z	ADP	_	_	7	case	_	_
@@ -775,7 +775,7 @@
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	że	że	SCONJ	_	_	6	mark	_	_
 5	celowo	celowo	ADV	_	_	6	advmod	_	_
-6	pozwoliłam	pozwolić	VERB	_	_	2	ccomp:obj	let.01	AN-MNR:5|A1:7
+6	pozwoliłam	pozwolić	VERB	_	_	2	ccomp:obj	let.01	AM-MNR:5|A1:7
 7	ci	ty	PRON	_	_	8	iobj	_	_
 8	wygrać	wygrać	VERB	_	_	6	xcomp	win.01	_
 9	,	,	PUNCT	_	_	12	punct	_	_
@@ -1493,7 +1493,7 @@
 2	twarz	twarz	NOUN	_	_	5	obj	_	_
 3	ogólnie	ogólnie	ADV	_	_	5	advmod	_	_
 4	rzecz	rzecz	NOUN	_	_	5	obj	_	_
-5	biorąc	brać	VERB	_	_	7	parataxis:insert	take.01	A1:2|AM-NMR:3
+5	biorąc	brać	VERB	_	_	7	parataxis:insert	take.01	A1:2|AM-MNR:3
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	skóra	skóra	NOUN	_	_	16	nsubj	_	_
 8	ludzi	człowiek	NOUN	_	_	7	nmod	_	_
@@ -1610,7 +1610,7 @@
 9	nawet	nawet	PART	_	_	12	advmod:emph	_	_
 10	w	w	ADP	_	_	12	case	_	_
 11	ogromne	ogromny	ADJ	_	_	12	amod	_	_
-12	oburzenie	oburzenie	NOUN	_	_	7	obl:arg	indignation.01	AM-NMR:11|A1:15
+12	oburzenie	oburzenie	NOUN	_	_	7	obl:arg	indignation.01	AM-MNR:11|A1:15
 13	ze	z	ADP	_	_	15	case	_	_
 14	strony	strona	NOUN	_	_	13	fixed	_	_
 15	Iranu	Iran	PROPN	_	_	12	nmod	_	_
