@@ -1,5 +1,5 @@
 # global.columns = STANZA:ID STANZA:FORM STANZA:LEMMA STANZA:UPOS STANZA:XPOS STANZA:FEATS STANZA:HEAD STANZA:DEPREL GOLD:PRED GOLD:ARGHEADS
-# sentence-text = Dochody ogromnej większości z tych 20 obywateli klasy wyższej w Chinach są w zasadzie dochodami niezgłoszonymi ; część ich dochodów , która pochodzi z w pełni zadeklarowanych zarobków , stanowi znikomą część ich bogactwa .
+# text = Dochody ogromnej większości z tych 20 obywateli klasy wyższej w Chinach są w zasadzie dochodami niezgłoszonymi ; część ich dochodów , która pochodzi z w pełni zadeklarowanych zarobków , stanowi znikomą część ich bogactwa .
 1	Dochody	dochód	NOUN	_	_	15	nsubj	_	_
 2	ogromnej	ogromny	ADJ	_	_	3	amod	_	_
 3	większości	większość	NOUN	_	_	1	nmod	_	_
@@ -36,7 +36,7 @@
 34	bogactwa	bogactwo	NOUN	_	_	18	nmod:arg	_	_
 35	.	.	PUNCT	_	_	30	punct	_	_
 
-# sentence-text = Urzędnicy wyjeżdżają na wieś z wielką świtą , a ludzie idą do petycji sami .
+# text = Urzędnicy wyjeżdżają na wieś z wielką świtą , a ludzie idą do petycji sami .
 1	Urzędnicy	urzędnik	NOUN	_	_	2	nsubj	_	_
 2	wyjeżdżają	wyjeżdżać	VERB	_	_	0	ROOT	go.02	A0:1|A4:4|AM-MNR:7
 3	na	na	ADP	_	_	4	case	_	_
@@ -53,7 +53,7 @@
 14	sami	sam	ADJ	_	_	11	nsubj	_	_
 15	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = Zgodnie z jego życzeniem strona z pisma zawierającego skargę została zastąpiona inną stroną
+# text = Zgodnie z jego życzeniem strona z pisma zawierającego skargę została zastąpiona inną stroną
 1	Zgodnie	zgodnie	ADV	_	_	11	advmod	_	_
 2	z	z	ADP	_	_	4	case	_	_
 3	jego	on	PRON	_	_	4	nmod	_	_
@@ -68,14 +68,14 @@
 12	inną	inny	ADJ	_	_	13	amod	_	_
 13	stroną	strona	NOUN	_	_	11	iobj	_	_
 
-# sentence-text = Zły sad mamy tutaj .
+# text = Zły sad mamy tutaj .
 1	Zły	zły	NOUN	_	_	3	nsubj	_	_
 2	sad	sad	NOUN	_	_	1	nmod:arg	_	_
 3	mamy	mieć	VERB	_	_	0	ROOT	have.03	A1:2|AM-LOC:4
 4	tutaj	tutaj	ADV	_	_	3	advmod	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Nigdy nie napisałem tej historii .
+# text = Nigdy nie napisałem tej historii .
 1	Nigdy	nigdy	ADV	_	_	3	advmod	_	_
 2	nie	nie	PART	_	_	3	advmod:neg	_	_
 3	napisałem	napisać	VERB	_	_	0	ROOT	write.01	A0:1|AM-NEG:2|A1:5
@@ -83,7 +83,7 @@
 5	historii	historia	NOUN	_	_	3	obj	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Po okresie zamętu i tyranii , para gorąco wierzyła , że inwazja przyniesie pokój .
+# text = Po okresie zamętu i tyranii , para gorąco wierzyła , że inwazja przyniesie pokój .
 1	Po	po	ADP	_	_	2	case	_	_
 2	okresie	okres	NOUN	_	_	9	obl	_	_
 3	zamętu	zamęt	NOUN	_	_	2	nmod	_	_
@@ -100,7 +100,7 @@
 14	pokój	pokój	NOUN	_	_	13	obj	_	_
 15	.	.	PUNCT	_	_	9	punct	_	_
 
-# sentence-text = Wieczorem 23 - go dwunastego miesiąca księżycowego należy umieścić na stole tacę z kandyzowanymi melonami .
+# text = Wieczorem 23 - go dwunastego miesiąca księżycowego należy umieścić na stole tacę z kandyzowanymi melonami .
 1	Wieczorem	wieczór	NOUN	_	_	0	ROOT	_	_
 2	23	23	ADJ	_	_	1	amod	_	_
 3	-	-	ADJ	_	_	1	amod	_	_
@@ -118,7 +118,7 @@
 15	melonami	melon	NOUN	_	_	12	nmod	_	_
 16	.	.	PUNCT	_	_	8	punct	_	_
 
-# sentence-text = Le Beverly jakoś przebrnął przez lata 90 .
+# text = Le Beverly jakoś przebrnął przez lata 90 .
 1	Le	le	X	_	_	4	nsubj	_	_
 2	Beverly	beverly	PROPN	_	_	1	flat	_	_
 3	jakoś	jakoś	ADV	_	_	4	advmod	_	_
@@ -128,7 +128,7 @@
 7	90	90	ADJ	_	_	6	amod	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Tylko , że nie przegrał ... to było zwycięstwo .
+# text = Tylko , że nie przegrał ... to było zwycięstwo .
 1	Tylko	tylko	PART	_	_	0	ROOT	_	_
 2	,	,	PUNCT	_	_	5	punct	_	_
 3	że	że	SCONJ	_	_	5	mark	_	_
@@ -140,7 +140,7 @@
 9	zwycięstwo	zwycięstwo	NOUN	_	_	0	ROOT	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sentence-text = W ten sposób powoli zrażają się do siebie i zaczynają odmawiać .
+# text = W ten sposób powoli zrażają się do siebie i zaczynają odmawiać .
 1	W	w	ADP	_	_	3	case	_	_
 2	ten	ten	DET	_	_	3	det	_	_
 3	sposób	sposób	NOUN	_	_	5	obl	_	_
@@ -154,7 +154,7 @@
 11	odmawiać	odmawiać	VERB	_	_	10	xcomp	refuse.01	_
 12	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Nasi urzędnicy utknęli z podejmowaniem decyzji przy braku jakichkolwiek wymiernych kryteriów ,
+# text = Nasi urzędnicy utknęli z podejmowaniem decyzji przy braku jakichkolwiek wymiernych kryteriów ,
 1	Nasi	nasi	DET	_	_	2	det:poss	_	_
 2	urzędnicy	urzędnik	NOUN	_	_	3	nsubj	_	_
 3	utknęli	utknąć	VERB	_	_	0	ROOT	stuck.01	A1:2|A2:5
@@ -168,7 +168,7 @@
 11	kryteriów	kryterium	NOUN	_	_	8	nmod:arg	_	_
 12	,	,	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = W przeciwnym razie wojska radzieckie wpadłyby w szereg niszczących pułapek na przyszłym , zdalnie sterowanym polu walki , na którym wróg wykorzystałby najnowsze komputerowe systemy nadzoru i informacji w nowej formie wojny high - tech .
+# text = W przeciwnym razie wojska radzieckie wpadłyby w szereg niszczących pułapek na przyszłym , zdalnie sterowanym polu walki , na którym wróg wykorzystałby najnowsze komputerowe systemy nadzoru i informacji w nowej formie wojny high - tech .
 1	W	w	ADP	_	_	3	case	_	_
 2	przeciwnym	przeciwny	ADJ	_	_	3	amod	_	_
 3	razie	raz	NOUN	_	_	6	obl	_	_
@@ -206,7 +206,7 @@
 35	tech	tech	NOUN	_	_	33	nmod	_	_
 36	.	.	PUNCT	_	_	6	punct	_	_
 
-# sentence-text = Potem był czas , kiedy Jaymz podniósł swój komputer i roztrzaskał go o ścianę .
+# text = Potem był czas , kiedy Jaymz podniósł swój komputer i roztrzaskał go o ścianę .
 1	Potem	potem	ADV	_	_	2	advmod	_	_
 2	był	być	VERB	_	_	0	ROOT	be.01	A2:3
 3	czas	czas	NOUN	_	_	2	nsubj	_	_
@@ -223,7 +223,7 @@
 14	ścianę	ściana	NOUN	_	_	11	obl:arg	_	_
 15	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = Rzeczywiście - przypuszczam , że mój sarkazm nie był wystarczająco ociekający .
+# text = Rzeczywiście - przypuszczam , że mój sarkazm nie był wystarczająco ociekający .
 1	Rzeczywiście	rzeczywiście	ADV	_	_	3	parataxis:obj	_	_
 2	-	-	PUNCT	_	_	3	punct	_	_
 3	przypuszczam	przypuszczać	VERB	_	_	0	ROOT	suppose.01	AM-ADV:1|A1:7
@@ -237,7 +237,7 @@
 11	ociekający	ociekający	ADJ	_	_	3	ccomp	_	_
 12	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = [ jilian ] Ale z żywotnych interesów dziesiątków tysięcy rodaków w Rosji i presji w domu , ambasada nie może pomóc , ale oferują wyjaśnienia .
+# text = [ jilian ] Ale z żywotnych interesów dziesiątków tysięcy rodaków w Rosji i presji w domu , ambasada nie może pomóc , ale oferują wyjaśnienia .
 1	[	[	PUNCT	_	_	2	punct	_	_
 2	jilian	jilian	NOUN	_	_	0	ROOT	_	_
 3	]	]	PUNCT	_	_	2	punct	_	_
@@ -265,7 +265,7 @@
 25	wyjaśnienia	wyjaśnienie	NOUN	_	_	24	obj	_	_
 26	.	.	PUNCT	_	_	20	punct	_	_
 
-# sentence-text = Masowe mordy , które mają miejsce teraz w Sudanie , gdzie arabski reżim muzułmański masakruje swoich czarnych obywateli chrześcijan , nie mają nic wspólnego z Izraelem .
+# text = Masowe mordy , które mają miejsce teraz w Sudanie , gdzie arabski reżim muzułmański masakruje swoich czarnych obywateli chrześcijan , nie mają nic wspólnego z Izraelem .
 1	Masowe	masowy	ADJ	_	_	2	amod	_	_
 2	mordy	morda	NOUN	_	_	0	ROOT	_	_
 3	,	,	PUNCT	_	_	5	punct	_	_
@@ -294,7 +294,7 @@
 26	Izraelem	Izrael	PROPN	_	_	24	obl:arg	_	_
 27	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = Jednak w nowym trybie web - centric takie sytuacje nie będą już miały miejsca , ponieważ wszystkie usługi i aplikacje są dostarczane online - -
+# text = Jednak w nowym trybie web - centric takie sytuacje nie będą już miały miejsca , ponieważ wszystkie usługi i aplikacje są dostarczane online - -
 1	Jednak	jednak	CCONJ	_	_	13	cc	_	_
 2	w	w	ADP	_	_	4	case	_	_
 3	nowym	nowy	ADJ	_	_	4	amod	_	_
@@ -321,7 +321,7 @@
 24	-	-	PUNCT	_	_	6	punct	_	_
 25	-	-	PUNCT	_	_	13	punct	_	_
 
-# sentence-text = Wydaje się , że to wyrażenie ma dwie strony
+# text = Wydaje się , że to wyrażenie ma dwie strony
 1	Wydaje	wydawać	VERB	_	_	0	ROOT	seem.01	A1:6
 2	się	się	PRON	_	_	1	expl:pv	_	_
 3	,	,	PUNCT	_	_	7	punct	_	_
@@ -332,7 +332,7 @@
 8	dwie	dwa	NUM	_	_	9	nummod	_	_
 9	strony	strona	NOUN	_	_	7	iobj	_	_
 
-# sentence-text = W Kongo żołnierze przyjmowali ludzi do partii za jedną paczkę papierosów i jedno uderzenie kolbą karabinu .
+# text = W Kongo żołnierze przyjmowali ludzi do partii za jedną paczkę papierosów i jedno uderzenie kolbą karabinu .
 1	W	w	ADP	_	_	2	case	_	_
 2	Kongo	kongo	PROPN	_	_	4	obl	_	_
 3	żołnierze	żołnierz	NOUN	_	_	4	nsubj	_	_
@@ -351,7 +351,7 @@
 16	karabinu	karabin	NOUN	_	_	15	nmod	_	_
 17	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Bochenki były bezpośrednio przekazywane do Ośrodka Pracy .
+# text = Bochenki były bezpośrednio przekazywane do Ośrodka Pracy .
 1	Bochenki	bochenek	NOUN	_	_	4	nsubj:pass	_	_
 2	były	były	AUX	_	_	4	aux:pass	be.03	_
 3	bezpośrednio	bezpośrednio	ADV	_	_	4	advmod	_	_
@@ -361,7 +361,7 @@
 7	Pracy	praca	NOUN	_	_	6	nmod:flat	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Budżet Busha nie zostanie przyjęty z wieloma machnięciami ręką w Kongresie , gdzie nowa większość stanie przed trudnymi decyzjami .
+# text = Budżet Busha nie zostanie przyjęty z wieloma machnięciami ręką w Kongresie , gdzie nowa większość stanie przed trudnymi decyzjami .
 1	Budżet	budżet	NOUN	_	_	5	nsubj:pass	_	_
 2	Busha	Bush	PROPN	_	_	1	appos	_	_
 3	nie	nie	PART	_	_	4	advmod:neg	_	_
@@ -383,7 +383,7 @@
 19	decyzjami	decyzja	NOUN	_	_	16	obl:arg	_	_
 20	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Stany Zjednoczone przyjmują więcej uchodźców niż jakikolwiek inny kraj na świecie ,
+# text = Stany Zjednoczone przyjmują więcej uchodźców niż jakikolwiek inny kraj na świecie ,
 1	Stany	Stano	PROPN	_	_	3	nsubj	_	_
 2	Zjednoczone	zjednoczone	ADJ	_	_	1	amod:flat	_	_
 3	przyjmują	przyjmować	VERB	_	_	0	ROOT	admit.02	A0:2|A1:5
@@ -397,7 +397,7 @@
 11	świecie	świat	NOUN	_	_	9	nmod	_	_
 12	,	,	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Tylko w ten sposób możemy uspokoić duchy uczniów , którzy zginęli w katastrofie , możemy rozliczyć się z rodzicami ofiar , możemy uzyskać sprawiedliwość dla społeczności , możemy ostrzec przyszłe pokolenia przed lekcjami , które należy wyciągnąć .
+# text = Tylko w ten sposób możemy uspokoić duchy uczniów , którzy zginęli w katastrofie , możemy rozliczyć się z rodzicami ofiar , możemy uzyskać sprawiedliwość dla społeczności , możemy ostrzec przyszłe pokolenia przed lekcjami , które należy wyciągnąć .
 1	Tylko	tylko	PART	_	_	4	advmod:emph	_	_
 2	w	w	ADP	_	_	4	case	_	_
 3	ten	ten	DET	_	_	4	det	_	_
@@ -437,7 +437,7 @@
 37	wyciągnąć	wyciągnąć	VERB	_	_	36	xcomp	draw.02	R-A1:35|AM-MOD:36
 38	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Ten młody człowiek pomyślał sobie i powiedział : Jestem tu w Ameryce od dziesięciu lat i nie wysłałem ani jednego listu do mojej rodziny .
+# text = Ten młody człowiek pomyślał sobie i powiedział : Jestem tu w Ameryce od dziesięciu lat i nie wysłałem ani jednego listu do mojej rodziny .
 1	Ten	ten	DET	_	_	3	det	_	_
 2	młody	młody	ADJ	_	_	3	amod	_	_
 3	człowiek	człowiek	NOUN	_	_	4	nsubj	_	_
@@ -464,7 +464,7 @@
 24	rodziny	rodzina	NOUN	_	_	21	nmod	_	_
 25	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Saddam Husajn nie najechał na Kuwejt , nie zagroził Arabii Saudyjskiej i nie dokonał rzezi własnego narodu z powodu Izraela .
+# text = Saddam Husajn nie najechał na Kuwejt , nie zagroził Arabii Saudyjskiej i nie dokonał rzezi własnego narodu z powodu Izraela .
 1	Saddam	saddam	PROPN	_	_	4	nsubj	_	_
 2	Husajn	husajn	PROPN	_	_	1	flat	_	_
 3	nie	nie	PART	_	_	4	advmod:neg	_	_
@@ -487,7 +487,7 @@
 20	Izraela	Izrael	PROPN	_	_	17	nmod	_	_
 21	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Sytuacja nie jest inna dla osób , które wcześniej były właścicielami działek na mapie NoSrawlTax.org .
+# text = Sytuacja nie jest inna dla osób , które wcześniej były właścicielami działek na mapie NoSrawlTax.org .
 1	Sytuacja	sytuacja	NOUN	_	_	4	nsubj	_	_
 2	nie	nie	PART	_	_	3	advmod:neg	_	_
 3	jest	jest	AUX	_	_	4	cop	be.01	A1:1|A2:4
@@ -505,7 +505,7 @@
 15	NoSrawlTax.org	nosrawltax.org	PROPN	_	_	14	nmod	_	_
 16	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Zaczęło się to latem 2002 roku , kiedy Sarkozy , ówczesny minister spraw wewnętrznych , wprowadził surowe kary dla uliczników w okolicach rue Saint - Denis .
+# text = Zaczęło się to latem 2002 roku , kiedy Sarkozy , ówczesny minister spraw wewnętrznych , wprowadził surowe kary dla uliczników w okolicach rue Saint - Denis .
 1	Zaczęło	zacząć	VERB	_	_	0	ROOT	begin.01	A1:3|AM-TMP:4
 2	się	się	PRON	_	_	1	expl:pv	_	_
 3	to	to	PRON	_	_	1	nsubj	_	_
@@ -534,7 +534,7 @@
 26	Denis	denis	PROPN	_	_	23	appos	_	_
 27	.	.	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Większość istotnych dokumentów dotyczących kilkumiesięcznego okresu pracy Rumsfelda jest nadal utajniona , choć nie ulega wątpliwości , że podobnie jak w Biurze Równych Szans ( OEO ) , podjął on swoją misję z pasją .
+# text = Większość istotnych dokumentów dotyczących kilkumiesięcznego okresu pracy Rumsfelda jest nadal utajniona , choć nie ulega wątpliwości , że podobnie jak w Biurze Równych Szans ( OEO ) , podjął on swoją misję z pasją .
 1	Większość	większość	NOUN	_	_	11	nsubj:pass	_	_
 2	istotnych	istotny	ADJ	_	_	3	amod	_	_
 3	dokumentów	dokument	NOUN	_	_	1	nmod:arg	_	_
@@ -571,7 +571,7 @@
 34	pasją	pasja	NOUN	_	_	29	obl:arg	_	_
 35	.	.	PUNCT	_	_	11	punct	_	_
 
-# sentence-text = [ Chiny muszą polegać na sobie , aby stać się potężne .
+# text = [ Chiny muszą polegać na sobie , aby stać się potężne .
 1	[	[	PUNCT	_	_	3	punct	_	_
 2	Chiny	china	NOUN	_	_	3	nsubj	_	_
 3	muszą	musić	VERB	_	_	0	ROOT	_	_
@@ -585,7 +585,7 @@
 11	potężne	potężny	ADJ	_	_	9	xcomp:pred	_	_
 12	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Nie widzę sensu w twierdzeniu , że równowaga , która jest dynamiczna i ciągle się zmienia , jest " rozwiązaniem " .
+# text = Nie widzę sensu w twierdzeniu , że równowaga , która jest dynamiczna i ciągle się zmienia , jest " rozwiązaniem " .
 1	Nie	nie	PART	_	_	2	advmod:neg	_	_
 2	widzę	widzieć	VERB	_	_	0	ROOT	see.01	AM-NEG:1|A1:3|A1:18
 3	sensu	sens	NOUN	_	_	2	obj	_	_
@@ -609,7 +609,7 @@
 21	"	"	PUNCT	_	_	20	punct	_	_
 22	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = Prawdziwy mężczyzna pozwoliłby przynajmniej byłemu członkowi zarządu przeczytać powód , dla którego został zbanowany , ale zapomniałem , że mam do czynienia z tchórzem !
+# text = Prawdziwy mężczyzna pozwoliłby przynajmniej byłemu członkowi zarządu przeczytać powód , dla którego został zbanowany , ale zapomniałem , że mam do czynienia z tchórzem !
 1	Prawdziwy	prawdziwy	ADJ	_	_	2	amod	_	_
 2	mężczyzna	mężczyzna	NOUN	_	_	3	nsubj	_	_
 3	pozwoliłby	pozwolić	VERB	_	_	0	ROOT	let.01	A0:2|AM-ADV:4|A1:6
@@ -636,7 +636,7 @@
 24	tchórzem	tchórz	NOUN	_	_	22	obl:arg	_	_
 25	!	!	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = On jest uczonym , więc go zapytaj .
+# text = On jest uczonym , więc go zapytaj .
 1	On	on	PRON	_	_	3	nsubj	_	_
 2	jest	jest	AUX	_	_	3	cop	be.01	A1:1|A2:3
 3	uczonym	uczony	ADJ	_	_	0	ROOT	_	_
@@ -646,7 +646,7 @@
 7	zapytaj	zapytać	VERB	_	_	3	advcl	ask.01	A2:6
 8	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Podczas przesuwania krzesła Qingqing popchnął je Niektóre dzieci w naszej klasie przesuwają krzesła właśnie w ten sposób .
+# text = Podczas przesuwania krzesła Qingqing popchnął je Niektóre dzieci w naszej klasie przesuwają krzesła właśnie w ten sposób .
 1	Podczas	podczas	ADP	_	_	2	case	_	_
 2	przesuwania	przesuwania	NOUN	_	_	5	obl	_	_
 3	krzesła	krzesło	NOUN	_	_	2	obj	_	_
@@ -666,7 +666,7 @@
 17	sposób	sposób	NOUN	_	_	12	obl	_	_
 18	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Czy rząd o tym pomyślał ?
+# text = Czy rząd o tym pomyślał ?
 1	Czy	czy	PART	_	_	5	advmod	_	_
 2	rząd	rząd	NOUN	_	_	5	nsubj	_	_
 3	o	o	ADP	_	_	4	case	_	_
@@ -674,7 +674,7 @@
 5	pomyślał	pomyśleć	VERB	_	_	0	ROOT	think.01	A0:2|A2:4
 6	?	?	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Ale jak użytkownicy telefonów komórkowych mają tendencję do zakupu nowych słuchawek tylko raz na kilka lat , to ' s prawdopodobne , że dziesiątki milionów Cingular ' s około 60 milionów abonentów będą nosić wokół urządzeń z nazwą i logo Cingular przez wiele lat .
+# text = Ale jak użytkownicy telefonów komórkowych mają tendencję do zakupu nowych słuchawek tylko raz na kilka lat , to ' s prawdopodobne , że dziesiątki milionów Cingular ' s około 60 milionów abonentów będą nosić wokół urządzeń z nazwą i logo Cingular przez wiele lat .
 1	Ale	ale	CCONJ	_	_	6	cc	_	_
 2	jak	jak	SCONJ	_	_	6	advmod	_	_
 3	użytkownicy	użytkownik	NOUN	_	_	6	nsubj	_	_
@@ -721,7 +721,7 @@
 44	lat	rok	NOUN	_	_	34	obl	_	_
 45	.	.	PUNCT	_	_	6	punct	_	_
 
-# sentence-text = Od ponad 10 lat jeżdżę do szczęśliwego Jemenu na większość moich wakacji , za to , co można tam znaleźć z tanich cen , piękno , konserwatyzm , szczodrość i niezniszczony charakter jego mieszkańców , choć usługi są nadal słabe , ale zaczęły się poprawiać .
+# text = Od ponad 10 lat jeżdżę do szczęśliwego Jemenu na większość moich wakacji , za to , co można tam znaleźć z tanich cen , piękno , konserwatyzm , szczodrość i niezniszczony charakter jego mieszkańców , choć usługi są nadal słabe , ale zaczęły się poprawiać .
 1	Od	od	ADP	_	_	4	case	_	_
 2	ponad	ponad	PART	_	_	3	advmod:emph	_	_
 3	10	10	NUM	_	_	4	nummod	_	_
@@ -769,7 +769,7 @@
 45	poprawiać	poprawiać	VERB	_	_	43	xcomp	improve.01	_
 46	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Mama powiedziała , że celowo pozwoliłam ci wygrać , bo inaczej przegrasz .
+# text = Mama powiedziała , że celowo pozwoliłam ci wygrać , bo inaczej przegrasz .
 1	Mama	mama	NOUN	_	_	2	nsubj	_	_
 2	powiedziała	powiedzieć	VERB	_	_	0	ROOT	say.01	A0:1
 3	,	,	PUNCT	_	_	6	punct	_	_
@@ -784,7 +784,7 @@
 12	przegrasz	przegrać	VERB	_	_	6	advcl	lose.03	AM-DIS:10
 13	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = Myśl Mao Zedonga była najcenniejszym bogactwem duchowym narodu chińskiego .
+# text = Myśl Mao Zedonga była najcenniejszym bogactwem duchowym narodu chińskiego .
 1	Myśl	myśl	NOUN	_	_	6	nsubj	_	_
 2	Mao	mao	PROPN	_	_	1	flat	_	_
 3	Zedonga	Zedong	PROPN	_	_	2	flat	_	_
@@ -796,7 +796,7 @@
 9	chińskiego	chiński	ADJ	_	_	8	amod	_	_
 10	.	.	PUNCT	_	_	6	punct	_	_
 
-# sentence-text = Jeśli nie ma powodu , aby zdecydować , kompilator musi wybrać drugą interpretację .
+# text = Jeśli nie ma powodu , aby zdecydować , kompilator musi wybrać drugą interpretację .
 1	Jeśli	jeśli	SCONJ	_	_	3	mark	_	_
 2	nie	nie	PART	_	_	3	advmod:neg	_	_
 3	ma	mieć	VERB	_	_	10	advcl	have.03	A1:4
@@ -812,7 +812,7 @@
 13	interpretację	interpretacja	NOUN	_	_	11	obj	_	_
 14	.	.	PUNCT	_	_	10	punct	_	_
 
-# sentence-text = W kluczowym okresie dla wznowienia rozmów sześciostronnych na temat kwestii nuklearnej na Półwyspie Koreańskim , 3 grudnia japońskie media ujawniły , że w zamian za wsparcie Rosji w rozmowach sześciostronnych , Korea Północna przekazała Rosji wyłączne prawo importu rudy uranu .
+# text = W kluczowym okresie dla wznowienia rozmów sześciostronnych na temat kwestii nuklearnej na Półwyspie Koreańskim , 3 grudnia japońskie media ujawniły , że w zamian za wsparcie Rosji w rozmowach sześciostronnych , Korea Północna przekazała Rosji wyłączne prawo importu rudy uranu .
 1	W	w	ADP	_	_	3	case	_	_
 2	kluczowym	kluczowy	ADJ	_	_	3	amod	_	_
 3	okresie	okres	NOUN	_	_	20	obl	_	_
@@ -855,7 +855,7 @@
 40	uranu	uran	NOUN	_	_	38	nmod:arg	_	_
 41	.	.	PUNCT	_	_	20	punct	_	_
 
-# sentence-text = Na przykład niektóre plemiona jedzą dopiero po tym jak gość zje i kończą dopiero gdy on skończy nawet jeśli zostanie na całą godzinę
+# text = Na przykład niektóre plemiona jedzą dopiero po tym jak gość zje i kończą dopiero gdy on skończy nawet jeśli zostanie na całą godzinę
 1	Na	na	ADP	_	_	5	parataxis:insert	_	_
 2	przykład	przykład	NOUN	_	_	1	fixed	_	_
 3	niektóre	niektóry	DET	_	_	4	det	_	_
@@ -880,7 +880,7 @@
 22	całą	cały	ADJ	_	_	23	amod	_	_
 23	godzinę	godzina	NOUN	_	_	20	obl	_	_
 
-# sentence-text = To może wspierać albo wychowania lub natury .
+# text = To może wspierać albo wychowania lub natury .
 1	To	to	PRON	_	_	2	nsubj	_	_
 2	może	móc	VERB	_	_	0	ROOT	_	_
 3	wspierać	wspierać	VERB	_	_	2	xcomp	support.01	A0:1|AM-MOD:2|A1:5
@@ -890,7 +890,7 @@
 7	natury	natura	NOUN	_	_	5	conj	_	_
 8	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = jest to ten sam argument rozcieńczony .
+# text = jest to ten sam argument rozcieńczony .
 1	jest	jest	AUX	_	_	5	aux	be.01	A1:2|A2:5
 2	to	to	AUX	_	_	5	cop	_	_
 3	ten	ten	DET	_	_	5	det	_	_
@@ -899,7 +899,7 @@
 6	rozcieńczony	rozcieńczony	ADJ	_	_	5	acl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Ten żarliwy zachwyt jest widoczny gdy zwykli ludzie stają się obsesyjnie surfujący po Internecie przez całą noc lub gdy mniej zwykli ludzie zaczynają włamywać się do systemów komputerowych
+# text = Ten żarliwy zachwyt jest widoczny gdy zwykli ludzie stają się obsesyjnie surfujący po Internecie przez całą noc lub gdy mniej zwykli ludzie zaczynają włamywać się do systemów komputerowych
 1	Ten	ten	DET	_	_	3	det	_	_
 2	żarliwy	żarliwy	ADJ	_	_	3	amod	_	_
 3	zachwyt	zachwyt	NOUN	_	_	5	nsubj	_	_
@@ -929,7 +929,7 @@
 27	systemów	system	NOUN	_	_	24	obl:arg	_	_
 28	komputerowych	komputerowy	ADJ	_	_	27	amod	_	_
 
-# sentence-text = Spacerując po lotnisku zauważyłem tylko jeden samolot z osłonami na skrzydłach .
+# text = Spacerując po lotnisku zauważyłem tylko jeden samolot z osłonami na skrzydłach .
 1	Spacerując	spacerować	VERB	_	_	4	advcl	walk.01	A2:3
 2	po	po	ADP	_	_	3	case	_	_
 3	lotnisku	lotnisko	NOUN	_	_	4	obl	_	_
@@ -943,7 +943,7 @@
 11	skrzydłach	skrzydło	NOUN	_	_	9	nmod	_	_
 12	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Pozostawiając obywatelowi taką swobodę działania i bycia , jaka jest zgodna z porządkiem i prawami innych , instytucje czynią go prawdziwie wolnym człowiekiem .
+# text = Pozostawiając obywatelowi taką swobodę działania i bycia , jaka jest zgodna z porządkiem i prawami innych , instytucje czynią go prawdziwie wolnym człowiekiem .
 1	Pozostawiając	pozostawiać	VERB	_	_	19	advcl	leave.01	A1:2|A2:4
 2	obywatelowi	obywatel	NOUN	_	_	1	iobj	_	_
 3	taką	taką	DET	_	_	4	det	_	_
@@ -969,7 +969,7 @@
 23	człowiekiem	człowiek	NOUN	_	_	19	obl	_	_
 24	.	.	PUNCT	_	_	19	punct	_	_
 
-# sentence-text = I nic nie wskazuje na to , że ktokolwiek inny uruchomił wyłączniki .
+# text = I nic nie wskazuje na to , że ktokolwiek inny uruchomił wyłączniki .
 1	I	i	CCONJ	_	_	4	cc	_	_
 2	nic	nic	PRON	_	_	4	nsubj	_	_
 3	nie	nie	PART	_	_	4	advmod:neg	_	_
@@ -984,7 +984,7 @@
 12	wyłączniki	wyłącznik	NOUN	_	_	11	obj	_	_
 13	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Wręcz przeciwnie , w ciągu ostatniego tygodnia miały miejsce kolejne przypadki strzelania przez policję do cywilów .
+# text = Wręcz przeciwnie , w ciągu ostatniego tygodnia miały miejsce kolejne przypadki strzelania przez policję do cywilów .
 1	Wręcz	wręcz	PART	_	_	2	advmod:emph	_	_
 2	przeciwnie	przeciwnie	ADV	_	_	8	parataxis:insert	_	_
 3	,	,	PUNCT	_	_	8	punct	_	_
@@ -1003,11 +1003,11 @@
 16	cywilów	cywil	NOUN	_	_	11	nmod	_	_
 17	.	.	PUNCT	_	_	8	punct	_	_
 
-# sentence-text = Pozdrawiam .
+# text = Pozdrawiam .
 1	Pozdrawiam	pozdrawiać	VERB	_	_	0	ROOT	greet.01	_
 2	.	.	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Te nieczyste obrzydliwości ... nie rządzą się ani sumieniem , ani religią , ani obyczajem , ani moralnością , każdy kto chce czuć się z nimi bezpiecznie , musi czuć się bezpiecznie przed ukąszeniem węża w jego własnej norze .
+# text = Te nieczyste obrzydliwości ... nie rządzą się ani sumieniem , ani religią , ani obyczajem , ani moralnością , każdy kto chce czuć się z nimi bezpiecznie , musi czuć się bezpiecznie przed ukąszeniem węża w jego własnej norze .
 1	Te	te	DET	_	_	3	det	_	_
 2	nieczyste	czysty	ADJ	_	_	3	amod	_	_
 3	obrzydliwości	obrzydliwość	NOUN	_	_	0	ROOT	_	_
@@ -1049,7 +1049,7 @@
 39	norze	nora	NOUN	_	_	23	obl	_	_
 40	.	.	PUNCT	_	_	6	punct	_	_
 
-# sentence-text = A rozum proletariacki nie ma sensu dla prawa burżuazyjnego !
+# text = A rozum proletariacki nie ma sensu dla prawa burżuazyjnego !
 1	A	a	PART	_	_	5	cc	_	_
 2	rozum	rozum	NOUN	_	_	5	nsubj	_	_
 3	proletariacki	proletariacki	ADJ	_	_	2	amod	_	_
@@ -1061,7 +1061,7 @@
 9	burżuazyjnego	burżuazyjny	ADJ	_	_	8	amod	_	_
 10	!	!	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Nie każdy może być nazwany synem ludu i narodu .
+# text = Nie każdy może być nazwany synem ludu i narodu .
 1	Nie	nie	PART	_	_	2	advmod:neg	_	_
 2	każdy	każdy	DET	_	_	3	nsubj	_	_
 3	może	móc	VERB	_	_	0	ROOT	_	_
@@ -1073,7 +1073,7 @@
 9	narodu	naród	NOUN	_	_	7	conj	_	_
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Kilka głównych wniosków z 2006 r . dość dobrze wyjaśnia główne tendencje rozwojowe na rynkach w ubiegłym roku , a mianowicie , że obecna sytuacja na rynkach finansowych ucieleśnia skutki wszystkich tych zmian , które wzajemnie na siebie oddziałują .
+# text = Kilka głównych wniosków z 2006 r . dość dobrze wyjaśnia główne tendencje rozwojowe na rynkach w ubiegłym roku , a mianowicie , że obecna sytuacja na rynkach finansowych ucieleśnia skutki wszystkich tych zmian , które wzajemnie na siebie oddziałują .
 1	Kilka	kilka	DET	_	_	3	det:numgov	_	_
 2	głównych	główny	ADJ	_	_	3	amod	_	_
 3	wniosków	wniosek	NOUN	_	_	10	nsubj	_	_
@@ -1115,13 +1115,13 @@
 39	oddziałują	oddziaływać	VERB	_	_	33	acl:relcl	interact.01	A0:33|A1:38
 40	.	.	PUNCT	_	_	10	punct	_	_
 
-# sentence-text = Rajaaa100@Hotmail . Com .
+# text = Rajaaa100@Hotmail . Com .
 1	Rajaaa100@Hotmail	rajaaa100@hotmail	NOUN	_	_	0	ROOT	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
 3	Com	com	PROPN	_	_	0	ROOT	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Ale prawdopodobny wzorzec emisji tych dźwięków stworzonych przez człowieka różni się od wzorca podziemnych wstrząsów , więc to prosi naszych krajowych pracowników zajmujących się rozpoznawaniem wzorców , aby poświęcili trochę czasu i wysiłku na próby odróżnienia tych dźwięków od wstrząsów , spróbowali oddzielić podziemne wibracje od wibracji spowodowanych przez ludzi .
+# text = Ale prawdopodobny wzorzec emisji tych dźwięków stworzonych przez człowieka różni się od wzorca podziemnych wstrząsów , więc to prosi naszych krajowych pracowników zajmujących się rozpoznawaniem wzorców , aby poświęcili trochę czasu i wysiłku na próby odróżnienia tych dźwięków od wstrząsów , spróbowali oddzielić podziemne wibracje od wibracji spowodowanych przez ludzi .
 1	Ale	ale	CCONJ	_	_	10	cc	_	_
 2	prawdopodobny	prawdopodobny	ADJ	_	_	3	amod	_	_
 3	wzorzec	wzorzec	NOUN	_	_	10	nsubj	_	_
@@ -1174,7 +1174,7 @@
 50	ludzi	człowiek	NOUN	_	_	48	obl:agent	_	_
 51	.	.	PUNCT	_	_	10	punct	_	_
 
-# sentence-text = Ale kiedy brakuje tego poziomu , rzeczy wydają się być pozbawione powagi
+# text = Ale kiedy brakuje tego poziomu , rzeczy wydają się być pozbawione powagi
 1	Ale	ale	CCONJ	_	_	8	cc	_	_
 2	kiedy	kiedy	ADV	_	_	3	advmod	_	_
 3	brakuje	brakować	VERB	_	_	8	advcl	lack.01	AM-DIS:1|AM-TMP:2|A1:5
@@ -1188,13 +1188,13 @@
 11	pozbawione	pozbawione	ADJ	_	_	12	acl	_	_
 12	powagi	powaga	NOUN	_	_	8	nsubj	_	_
 
-# sentence-text = Jaka wielka szkoda !
+# text = Jaka wielka szkoda !
 1	Jaka	jaka	DET	_	_	3	det	_	_
 2	wielka	wielki	ADJ	_	_	3	amod	_	_
 3	szkoda	szkoda	NOUN	_	_	0	ROOT	_	_
 4	!	!	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = I to właśnie skłoniło zarówno wrogów , jak i przyjaciół do wezwania psychologów i filozofów do sformułowania hasła tak , aby było ono zgodne z emocjami i posiadało moc przebijania serca bez wyczerpywania umysłu .
+# text = I to właśnie skłoniło zarówno wrogów , jak i przyjaciół do wezwania psychologów i filozofów do sformułowania hasła tak , aby było ono zgodne z emocjami i posiadało moc przebijania serca bez wyczerpywania umysłu .
 1	I	i	PART	_	_	4	cc	_	_
 2	to	to	PRON	_	_	3	advmod:emph	_	_
 3	właśnie	właśnie	PART	_	_	4	advmod	_	_
@@ -1231,7 +1231,7 @@
 34	umysłu	umysł	NOUN	_	_	33	obj	_	_
 35	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Więc , jeden żołnierz wstał i opowiedział o jakiejś zrównanej z ziemią dziurze w Iraku ?
+# text = Więc , jeden żołnierz wstał i opowiedział o jakiejś zrównanej z ziemią dziurze w Iraku ?
 1	Więc	więc	SCONJ	_	_	5	mark	_	_
 2	,	,	PUNCT	_	_	5	punct	_	_
 3	jeden	jeden	ADJ	_	_	4	amod	_	_
@@ -1249,7 +1249,7 @@
 15	Iraku	Irak	PROPN	_	_	13	nmod	_	_
 16	?	?	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = & Rzeczywistość ma piekielny czas na przeniknięcie przez mgłę w mojej głowie .
+# text = & Rzeczywistość ma piekielny czas na przeniknięcie przez mgłę w mojej głowie .
 1	&	&	PUNCT	_	_	3	punct	_	_
 2	Rzeczywistość	rzeczywistość	NOUN	_	_	3	nsubj	_	_
 3	ma	mieć	VERB	_	_	0	ROOT	have.03	AM-DIS:1|A0:2|A1:5
@@ -1264,7 +1264,7 @@
 12	głowie	głowa	NOUN	_	_	3	obl	_	_
 13	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Ci właściciele gruntów mogliby zaoferować budowę lub rozbudowę dróg w pobliżu swoich nieruchomości .
+# text = Ci właściciele gruntów mogliby zaoferować budowę lub rozbudowę dróg w pobliżu swoich nieruchomości .
 1	Ci	ci	DET	_	_	2	det	_	_
 2	właściciele	właściciel	NOUN	_	_	4	nsubj	_	_
 3	gruntów	grunt	NOUN	_	_	2	nmod:arg	_	_
@@ -1280,7 +1280,7 @@
 13	nieruchomości	nieruchomość	NOUN	_	_	5	obl	_	_
 14	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = ale każdy , kto myśli , że cokolwiek z tego zostanie rozwiązane , w jakikolwiek sposób , bez mnóstwa pieniędzy , musi wrócić do punktu wyjścia .
+# text = ale każdy , kto myśli , że cokolwiek z tego zostanie rozwiązane , w jakikolwiek sposób , bez mnóstwa pieniędzy , musi wrócić do punktu wyjścia .
 1	ale	ale	CCONJ	_	_	2	cc	_	_
 2	każdy	każdy	DET	_	_	22	nsubj	_	_
 3	,	,	PUNCT	_	_	5	punct	_	_
@@ -1309,7 +1309,7 @@
 26	wyjścia	wyjście	NOUN	_	_	25	nmod	_	_
 27	.	.	PUNCT	_	_	22	punct	_	_
 
-# sentence-text = Znajduje się w odległości dwóch BILIONÓW lat świetlnych od nas , jest to najdalszy zasięg , jaki może osiągnąć sprzęt amatorski , a zwłaszcza z naszego podwórka .
+# text = Znajduje się w odległości dwóch BILIONÓW lat świetlnych od nas , jest to najdalszy zasięg , jaki może osiągnąć sprzęt amatorski , a zwłaszcza z naszego podwórka .
 1	Znajduje	znajdywać	VERB	_	_	0	ROOT	lay.01	A2:4
 2	się	się	PRON	_	_	1	expl:pv	_	_
 3	w	w	ADP	_	_	4	case	_	_
@@ -1339,7 +1339,7 @@
 27	podwórka	podwórko	NOUN	_	_	15	conj	_	_
 28	.	.	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Odkąd wprowadziliśmy się do ogrodu Fenghua , wciąż dzieją się tam dziwne rzeczy .
+# text = Odkąd wprowadziliśmy się do ogrodu Fenghua , wciąż dzieją się tam dziwne rzeczy .
 1	Odkąd	odkąd	ADV	_	_	2	advmod	_	_
 2	wprowadziliśmy	wprowadzić	VERB	_	_	0	ROOT	move.01	A2:5
 3	się	się	PRON	_	_	2	expl:pv	_	_
@@ -1355,7 +1355,7 @@
 13	rzeczy	rzecz	NOUN	_	_	9	nsubj	_	_
 14	.	.	PUNCT	_	_	2	punct	_	_
 
-# sentence-text = Krótko mówiąc , ich celem jest powrót do islamskiego kalifatu , co jest ich najdroższym i najcenniejszym życzeniem .
+# text = Krótko mówiąc , ich celem jest powrót do islamskiego kalifatu , co jest ich najdroższym i najcenniejszym życzeniem .
 1	Krótko	krótko	ADV	_	_	2	advmod	_	_
 2	mówiąc	mówić	VERB	_	_	5	parataxis:insert	speak.01	AM-DIS:1
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -1376,7 +1376,7 @@
 18	życzeniem	życzenie	NOUN	_	_	15	conj	_	_
 19	.	.	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = [ Bcc ] Ty i CY nie możecie być razem .
+# text = [ Bcc ] Ty i CY nie możecie być razem .
 1	[	[	PUNCT	_	_	2	punct	_	_
 2	Bcc	bcc	PROPN	_	_	0	ROOT	_	_
 3	]	]	PUNCT	_	_	2	punct	_	_
@@ -1389,7 +1389,7 @@
 10	razem	razem	ADV	_	_	9	advmod	_	_
 11	.	.	PUNCT	_	_	8	punct	_	_
 
-# sentence-text = Wydaje mi się , że cały sens istnienia dróg polega na ułatwianiu interesom publicznym dotarcia do i z prywatnych przedsiębiorstw .
+# text = Wydaje mi się , że cały sens istnienia dróg polega na ułatwianiu interesom publicznym dotarcia do i z prywatnych przedsiębiorstw .
 1	Wydaje	wydawać	VERB	_	_	0	ROOT	seem.01	A2:2|A1:10
 2	mi	ja	PRON	_	_	1	iobj	_	_
 3	się	się	PRON	_	_	1	expl:pv	_	_
@@ -1412,7 +1412,7 @@
 20	przedsiębiorstw	przedsiębiorstwo	NOUN	_	_	15	conj	_	_
 21	.	.	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Czy małpy przystosowują się do swoich ograniczonych siedlisk z ograniczonymi źródłami pożywienia , czy też jesteśmy świadkami ich zbliżania się do wyginięcia ?
+# text = Czy małpy przystosowują się do swoich ograniczonych siedlisk z ograniczonymi źródłami pożywienia , czy też jesteśmy świadkami ich zbliżania się do wyginięcia ?
 1	Czy	czy	PART	_	_	3	advmod	_	_
 2	małpy	małpa	NOUN	_	_	3	nsubj	_	_
 3	przystosowują	przystosowywać	VERB	_	_	0	ROOT	adapt.01	A0:2|A2:8
@@ -1437,7 +1437,7 @@
 22	wyginięcia	wyginięcie	NOUN	_	_	19	obl:arg	extinction.01	A1:18
 23	?	?	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Na własne oczy widziałem jedną z nich z odsłoniętą dolną częścią brzucha z podwyższonego entuzjazmu !
+# text = Na własne oczy widziałem jedną z nich z odsłoniętą dolną częścią brzucha z podwyższonego entuzjazmu !
 1	Na	na	ADP	_	_	3	case	_	_
 2	własne	własny	ADJ	_	_	3	amod	_	_
 3	oczy	oko	NOUN	_	_	4	obl	_	_
@@ -1455,7 +1455,7 @@
 15	entuzjazmu	entuzjazm	NOUN	_	_	9	obl	_	_
 16	!	!	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Pamiętam mój pierwszy rok studiów w Qinghua , poszedłem na mój pierwszy przedmiot obieralny o nazwie " Inspiracje w historii fizyki " . "
+# text = Pamiętam mój pierwszy rok studiów w Qinghua , poszedłem na mój pierwszy przedmiot obieralny o nazwie " Inspiracje w historii fizyki " . "
 1	Pamiętam	pamiętać	VERB	_	_	0	ROOT	remember.01	A1:4|AM-LOC:7
 2	mój	mój	DET	_	_	4	det:poss	_	_
 3	pierwszy	pierwszy	ADJ	_	_	4	amod	_	_
@@ -1481,14 +1481,14 @@
 23	.	.	PUNCT	_	_	1	punct	_	_
 24	"	"	PUNCT	_	_	0	ROOT	_	_
 
-# sentence-text = Naprawdę jestem zbyt zdenerwowany .
+# text = Naprawdę jestem zbyt zdenerwowany .
 1	Naprawdę	naprawdę	PART	_	_	4	advmod:emph	_	_
 2	jestem	jestem	AUX	_	_	4	aux:pass	be.01	A2:4
 3	zbyt	zbyt	ADV	_	_	4	advmod	_	_
 4	zdenerwowany	zdenerwowany	ADJ	_	_	0	ROOT	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Ciemna twarz ogólnie rzecz biorąc , skóra ludzi , którzy spożywają zbyt dużo soli jest szorstka i ciemna .
+# text = Ciemna twarz ogólnie rzecz biorąc , skóra ludzi , którzy spożywają zbyt dużo soli jest szorstka i ciemna .
 1	Ciemna	ciemny	ADJ	_	_	2	amod	_	_
 2	twarz	twarz	NOUN	_	_	5	obj	_	_
 3	ogólnie	ogólnie	ADV	_	_	5	advmod	_	_
@@ -1509,7 +1509,7 @@
 18	ciemna	ciemny	ADJ	_	_	16	conj	_	_
 19	.	.	PUNCT	_	_	16	punct	_	_
 
-# sentence-text = O ile budowniczowie nie będą dostarczać przystępnych cenowo mieszkań ze stratą - co dla mnie wydaje się absurdalne - nie będzie tu przystępnych cenowo mieszkań bez jeszcze większych dotacji podatkowych .
+# text = O ile budowniczowie nie będą dostarczać przystępnych cenowo mieszkań ze stratą - co dla mnie wydaje się absurdalne - nie będzie tu przystępnych cenowo mieszkań bez jeszcze większych dotacji podatkowych .
 1	O	o	ADP	_	_	6	mark	_	_
 2	ile	ile	ADV	_	_	1	fixed	_	_
 3	budowniczowie	budowniczy	NOUN	_	_	6	nsubj	_	_
@@ -1542,7 +1542,7 @@
 30	podatkowych	podatkowy	ADJ	_	_	29	amod	_	_
 31	.	.	PUNCT	_	_	9	punct	_	_
 
-# sentence-text = Właściwe miejsce dla tych najemników jest obok ich upokorzonego pana w klatce oskarżonego .
+# text = Właściwe miejsce dla tych najemników jest obok ich upokorzonego pana w klatce oskarżonego .
 1	Właściwe	właściwy	ADJ	_	_	2	amod	_	_
 2	miejsce	miejsce	NOUN	_	_	6	nsubj	_	_
 3	dla	dla	ADP	_	_	5	case	_	_
@@ -1558,7 +1558,7 @@
 13	oskarżonego	oskarżony	NOUN	_	_	12	nmod	_	_
 14	.	.	PUNCT	_	_	6	punct	_	_
 
-# sentence-text = Nigdy nie gardziła mną z powodu mojej biedy , nigdy też niczego ode mnie nie żądała .
+# text = Nigdy nie gardziła mną z powodu mojej biedy , nigdy też niczego ode mnie nie żądała .
 1	Nigdy	nigdy	ADV	_	_	3	advmod	_	_
 2	nie	nie	PART	_	_	3	advmod:neg	_	_
 3	gardziła	gardzić	VERB	_	_	0	ROOT	despise.01	AM-NEG:2|A1:4
@@ -1577,7 +1577,7 @@
 16	żądała	żądać	VERB	_	_	3	conj	request.01	A1:12|A2:14|AM-NEG:15
 17	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Czy ceny strefowe to palec na skali ?
+# text = Czy ceny strefowe to palec na skali ?
 1	Czy	czy	PART	_	_	5	advmod	_	_
 2	ceny	cena	NOUN	_	_	5	nsubj	_	_
 3	strefowe	strefowy	ADJ	_	_	2	amod	_	_
@@ -1587,7 +1587,7 @@
 7	skali	skala	NOUN	_	_	5	nmod:arg	_	_
 8	?	?	PUNCT	_	_	5	punct	_	_
 
-# sentence-text = Biały Czy mogę wprowadzić Louise w tym momencie ?
+# text = Biały Czy mogę wprowadzić Louise w tym momencie ?
 1	Biały	biały	ADJ	_	_	3	nsubj	_	_
 2	Czy	czy	PART	_	_	3	advmod	_	_
 3	mogę	móc	VERB	_	_	0	ROOT	_	_
@@ -1598,7 +1598,7 @@
 8	momencie	moment	NOUN	_	_	4	obl	_	_
 9	?	?	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Nie , publiczne poparcie dla Hezbollahu przerodziło się nawet w ogromne oburzenie ze strony Iranu i jego sojuszników w regionie arabskim .
+# text = Nie , publiczne poparcie dla Hezbollahu przerodziło się nawet w ogromne oburzenie ze strony Iranu i jego sojuszników w regionie arabskim .
 1	Nie	nie	PART	_	_	7	advmod:emph	_	_
 2	,	,	PUNCT	_	_	4	punct	_	_
 3	publiczne	publiczny	ADJ	_	_	4	amod	_	_
@@ -1622,7 +1622,7 @@
 21	arabskim	arabski	ADJ	_	_	20	amod	_	_
 22	.	.	PUNCT	_	_	7	punct	_	_
 
-# sentence-text = [ ] Powinnaś stanąć przy swoim dziecku .
+# text = [ ] Powinnaś stanąć przy swoim dziecku .
 1	[	[	PUNCT	_	_	0	ROOT	_	_
 2	]	]	PUNCT	_	_	1	punct	_	_
 3	Powinnaś	powinnaś	VERB	_	_	0	ROOT	_	_
@@ -1632,7 +1632,7 @@
 7	dziecku	dziecko	NOUN	_	_	4	obl	_	_
 8	.	.	PUNCT	_	_	3	punct	_	_
 
-# sentence-text = Brat Gotowy na forum Dziękuję za krótkie wprowadzenie do Nasriego
+# text = Brat Gotowy na forum Dziękuję za krótkie wprowadzenie do Nasriego
 1	Brat	brat	NOUN	_	_	5	nsubj	_	_
 2	Gotowy	gotowy	ADJ	_	_	1	amod:flat	_	_
 3	na	na	ADP	_	_	4	case	_	_
@@ -1644,7 +1644,7 @@
 9	do	do	ADP	_	_	10	case	_	_
 10	Nasriego	nasriego	PROPN	_	_	8	nmod	_	_
 
-# sentence-text = Haier uważa transnarodowe fuzje i przejęcia za ważny punkt zwrotny w realizacji swojej globalizacji
+# text = Haier uważa transnarodowe fuzje i przejęcia za ważny punkt zwrotny w realizacji swojej globalizacji
 1	Haier	Haier	NOUN	_	_	2	nsubj	_	_
 2	uważa	uważać	VERB	_	_	0	ROOT	see.01	A0:1|AM-ADJ:3|A1:4
 3	transnarodowe	transnarodowy	ADJ	_	_	4	amod	_	_
@@ -1660,7 +1660,7 @@
 13	swojej	swój	DET	_	_	14	det:poss	_	_
 14	globalizacji	globalizacja	NOUN	_	_	12	nmod:arg	_	_
 
-# sentence-text = Jakie jest Twoje zdanie na temat kobiet prowadzących samochody ?
+# text = Jakie jest Twoje zdanie na temat kobiet prowadzących samochody ?
 1	Jakie	jakie	DET	_	_	0	ROOT	_	_
 2	jest	jest	AUX	_	_	1	cop	be.01	A2:1|A1:4
 3	Twoje	twoje	DET	_	_	4	det:poss	_	_
@@ -1672,13 +1672,13 @@
 9	samochody	samochód	NOUN	_	_	8	obj	_	_
 10	?	?	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Idź za głosem .
+# text = Idź za głosem .
 1	Idź	iść	VERB	_	_	0	ROOT	walk.01	A2:3
 2	za	za	ADP	_	_	3	case	_	_
 3	głosem	głos	NOUN	_	_	1	obl	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Jednocześnie dzięki informacjom wywiadowczym które otrzymywał jako pierwszy wysokiej rangi urzędnik amerykański który udał się do Iraku od czasu paktu bagdadzkiego z lat 50-tych miał on wyjątkową świadomość jak żadna inna wysoka rangą osoba w Waszyngtonie brutalnego charakteru reżimu Saddama Husajna a w szczególności stojącej za nim polityki sekciarskiej regionalnej plemiennej i klanowej
+# text = Jednocześnie dzięki informacjom wywiadowczym które otrzymywał jako pierwszy wysokiej rangi urzędnik amerykański który udał się do Iraku od czasu paktu bagdadzkiego z lat 50-tych miał on wyjątkową świadomość jak żadna inna wysoka rangą osoba w Waszyngtonie brutalnego charakteru reżimu Saddama Husajna a w szczególności stojącej za nim polityki sekciarskiej regionalnej plemiennej i klanowej
 1	Jednocześnie	jednocześnie	ADV	_	_	25	advmod	_	_
 2	dzięki	dzięki	ADP	_	_	3	case	_	_
 3	informacjom	informacja	NOUN	_	_	25	obl	_	_
@@ -1733,7 +1733,7 @@
 52	i	i	CCONJ	_	_	53	cc	_	_
 53	klanowej	klanowy	ADJ	_	_	51	conj	_	_
 
-# sentence-text = Uwaga , ta cena gazu zawiera wszystkie podatki .
+# text = Uwaga , ta cena gazu zawiera wszystkie podatki .
 1	Uwaga	uwaga	NOUN	_	_	0	ROOT	_	_
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	ta	ta	DET	_	_	4	det	_	_
@@ -1744,7 +1744,7 @@
 8	podatki	podatek	NOUN	_	_	6	obj	_	_
 9	.	.	PUNCT	_	_	1	punct	_	_
 
-# sentence-text = Szczerze mówiąc , dziwi mnie całkowite milczenie ze strony dyrekcji generalnej i ministerstwa informacji .
+# text = Szczerze mówiąc , dziwi mnie całkowite milczenie ze strony dyrekcji generalnej i ministerstwa informacji .
 1	Szczerze	szczerze	ADV	_	_	2	advmod	_	_
 2	mówiąc	mówić	VERB	_	_	4	parataxis:insert	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -1761,7 +1761,7 @@
 14	informacji	informacja	NOUN	_	_	13	nmod:arg	_	_
 15	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Po drugie Sztokholm miał na tyle przytomności umysłu i uczciwości rządowej aby połączyć to jako eksperyment i pozwolić obywatelom zdemontować to później jeśli uznają że nie było to warte zachodu
+# text = Po drugie Sztokholm miał na tyle przytomności umysłu i uczciwości rządowej aby połączyć to jako eksperyment i pozwolić obywatelom zdemontować to później jeśli uznają że nie było to warte zachodu
 1	Po	po	ADP	_	_	3	case	_	_
 2	drugie	drugi	ADJ	_	_	3	amod	_	_
 3	Sztokholm	Sztokholm	PROPN	_	_	4	obl	_	_
@@ -1793,7 +1793,7 @@
 29	warte	wart	ADJ	_	_	30	amod	_	_
 30	zachodu	zachód	NOUN	_	_	14	nmod	_	_
 
-# sentence-text = Dochody ogromnej większości bogatych ludzi w Chinach są dochodami niezgłoszonymi , a niezgłoszone dochody są problemem , którego chińskie społeczeństwo nie będzie w stanie rozwiązać przez długi czas ; jest to cecha charakterystyczna Chin , niekontrolowana czarna dziura w chińskim nadzorze społecznym .
+# text = Dochody ogromnej większości bogatych ludzi w Chinach są dochodami niezgłoszonymi , a niezgłoszone dochody są problemem , którego chińskie społeczeństwo nie będzie w stanie rozwiązać przez długi czas ; jest to cecha charakterystyczna Chin , niekontrolowana czarna dziura w chińskim nadzorze społecznym .
 1	Dochody	dochód	NOUN	_	_	9	nsubj	_	_
 2	ogromnej	ogromny	ADJ	_	_	3	amod	_	_
 3	większości	większość	NOUN	_	_	1	nmod	_	_
@@ -1838,7 +1838,7 @@
 42	społecznym	społeczny	ADJ	_	_	41	amod	_	_
 43	.	.	PUNCT	_	_	9	punct	_	_
 
-# sentence-text = [ Podczas każdych wakacji szkolnych , większość dzieci na wsi musi wrócić do domu , aby pomóc w pracy na roli .
+# text = [ Podczas każdych wakacji szkolnych , większość dzieci na wsi musi wrócić do domu , aby pomóc w pracy na roli .
 1	[	[	PUNCT	_	_	4	punct	_	_
 2	Podczas	podczas	ADP	_	_	4	case	_	_
 3	każdych	każdych	DET	_	_	4	acl	_	_
@@ -1862,7 +1862,7 @@
 21	roli	rola	NOUN	_	_	17	obl	_	_
 22	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Ale oni zawsze są w grupach , a to oznacza pewną śmierć .
+# text = Ale oni zawsze są w grupach , a to oznacza pewną śmierć .
 1	Ale	ale	CCONJ	_	_	4	cc	_	_
 2	oni	on	PRON	_	_	4	nsubj	_	_
 3	zawsze	zawsze	ADV	_	_	4	advmod	_	_
@@ -1877,7 +1877,7 @@
 12	śmierć	śmierć	NOUN	_	_	10	iobj	_	_
 13	.	.	PUNCT	_	_	4	punct	_	_
 
-# sentence-text = Zgodnie z oficjalnym kursem wymiany jednego dolara amerykańskiego na 7,9 RMB , cena ta jest równoważna 4,80 juanów / litr .
+# text = Zgodnie z oficjalnym kursem wymiany jednego dolara amerykańskiego na 7,9 RMB , cena ta jest równoważna 4,80 juanów / litr .
 1	Zgodnie	zgodnie	ADV	_	_	16	advmod	_	_
 2	z	z	ADP	_	_	4	case	_	_
 3	oficjalnym	oficjalny	ADJ	_	_	4	amod	_	_
@@ -1900,7 +1900,7 @@
 20	litr	litr	NOUN	_	_	18	conj	_	_
 21	.	.	PUNCT	_	_	16	punct	_	_
 
-# sentence-text = W wielu artykułach krytykowano problem korupcji a w kilku poruszano tak drażliwe kwestie jak Tybet czy Igrzyska Olimpijskie w Pekinie
+# text = W wielu artykułach krytykowano problem korupcji a w kilku poruszano tak drażliwe kwestie jak Tybet czy Igrzyska Olimpijskie w Pekinie
 1	W	w	ADP	_	_	3	case	_	_
 2	wielu	wiele	DET	_	_	3	det:nummod	_	_
 3	artykułach	artykuł	NOUN	_	_	4	obl	_	_
@@ -1922,7 +1922,7 @@
 19	w	w	ADP	_	_	20	case	_	_
 20	Pekinie	Pekin	PROPN	_	_	15	nmod	_	_
 
-# sentence-text = Hiszpańskie pociągi i zamachy bombowe w Stambule to dopiero początek
+# text = Hiszpańskie pociągi i zamachy bombowe w Stambule to dopiero początek
 1	Hiszpańskie	hiszpański	ADJ	_	_	2	amod	_	_
 2	pociągi	pociąg	NOUN	_	_	10	nsubj	_	_
 3	i	i	CCONJ	_	_	4	cc	_	_
@@ -1934,7 +1934,7 @@
 9	dopiero	dopiero	PART	_	_	10	advmod:emph	_	_
 10	początek	początek	NOUN	_	_	0	ROOT	_	_
 
-# sentence-text = Uważam że to co wtedy powiedział było bardzo szczere
+# text = Uważam że to co wtedy powiedział było bardzo szczere
 1	Uważam	uważać	VERB	_	_	0	ROOT	believe.01	A1:3
 2	że	że	SCONJ	_	_	6	mark	_	_
 3	to	to	PRON	_	_	6	obj	_	_
@@ -1945,7 +1945,7 @@
 8	bardzo	bardzo	ADV	_	_	9	advmod	_	_
 9	szczere	szczery	ADJ	_	_	1	ccomp:obj	_	_
 
-# sentence-text = Do tej pory w tym roku odnotowano 17 wypadków w pobliżu skrzyżowania z Winterfield Road w porównaniu do 12 w całym 2004 roku
+# text = Do tej pory w tym roku odnotowano 17 wypadków w pobliżu skrzyżowania z Winterfield Road w porównaniu do 12 w całym 2004 roku
 1	Do	do	ADP	_	_	3	case	_	_
 2	tej	ten	DET	_	_	3	det	_	_
 3	pory	pora	NOUN	_	_	7	obl	_	_
@@ -1970,7 +1970,7 @@
 22	2004	2004	ADJ	_	_	6	amod:flat	_	_
 23	roku	rok	NOUN	_	_	19	nmod	_	_
 
-# sentence-text = Jak myślisz , jaką część południowo - zachodniej części USA obejmie chmura radiacyjna , geniuszu ?
+# text = Jak myślisz , jaką część południowo - zachodniej części USA obejmie chmura radiacyjna , geniuszu ?
 1	Jak	jak	SCONJ	_	_	2	advmod	_	_
 2	myślisz	myślić	VERB	_	_	0	ROOT	think.01	_
 3	,	,	PUNCT	_	_	5	punct	_	_
@@ -1988,7 +1988,7 @@
 15	geniuszu	geniusz	PROPN	_	_	13	conj	_	_
 16	?	?	PUNCT	_	_	11	punct	_	_
 
-# sentence-text = Możesz sortować te dane i tworzyć tabele zbiorcze do analizy
+# text = Możesz sortować te dane i tworzyć tabele zbiorcze do analizy
 1	Możesz	móc	VERB	_	_	0	ROOT	_	_
 2	sortować	sortować	VERB	_	_	1	xcomp	sort.01	A1:4
 3	te	ten	DET	_	_	4	det	_	_
@@ -2000,7 +2000,7 @@
 9	do	do	ADP	_	_	10	case	_	_
 10	analizy	analiza	NOUN	_	_	6	obl	_	_
 
-# sentence-text = Tylko gdyby Chiny zlikwidowały niezgłoszone dochody , podatek dochodowy miałby wpływ na bogatych ludzi .
+# text = Tylko gdyby Chiny zlikwidowały niezgłoszone dochody , podatek dochodowy miałby wpływ na bogatych ludzi .
 1	Tylko	tylko	PART	_	_	2	advmod:emph	_	_
 2	gdyby	gdyby	SCONJ	_	_	4	mark	_	_
 3	Chiny	china	NOUN	_	_	4	nsubj	_	_
@@ -2017,7 +2017,7 @@
 14	ludzi	człowiek	NOUN	_	_	11	nmod:arg	_	_
 15	.	.	PUNCT	_	_	10	punct	_	_
 
-# sentence-text = Ale proszę nie obrażaj naszej inteligencji twierdząc że wszystko to mogłoby być złagodzone gdybyśmy tylko częściej i bardziej właściwie czcili jakiegoś Boga
+# text = Ale proszę nie obrażaj naszej inteligencji twierdząc że wszystko to mogłoby być złagodzone gdybyśmy tylko częściej i bardziej właściwie czcili jakiegoś Boga
 1	Ale	ale	CCONJ	_	_	2	cc	_	_
 2	proszę	prosić	VERB	_	_	0	ROOT	please.01	_
 3	nie	nie	PART	_	_	4	advmod:neg	_	_
@@ -2041,7 +2041,7 @@
 21	jakiegoś	jakiś	DET	_	_	22	det	_	_
 22	Boga	Bóg	PROPN	_	_	20	obj	_	_
 
-# sentence-text = To jeszcze bardziej rozszerzyło wpływy i rozgłos Dalian w Japonii przyciągając uwagę japońskich mediów informacyjnych i ludzi ze wszystkich sektorów oraz zapoczątkowując nową rundę gorączki Dalian w Japonii
+# text = To jeszcze bardziej rozszerzyło wpływy i rozgłos Dalian w Japonii przyciągając uwagę japońskich mediów informacyjnych i ludzi ze wszystkich sektorów oraz zapoczątkowując nową rundę gorączki Dalian w Japonii
 1	To	to	AUX	_	_	4	nsubj	_	_
 2	jeszcze	jeszcze	PART	_	_	3	advmod:emph	_	_
 3	bardziej	bardzo	ADV	_	_	4	advmod	_	_
